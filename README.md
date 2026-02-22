@@ -5,6 +5,7 @@
 - Working 2026
   
 # Disclaimer
+Script is still in the BETA Version i will fix that soon!
 pls follow me if you enjoyed the Script :>
 
 # Things in the Script
